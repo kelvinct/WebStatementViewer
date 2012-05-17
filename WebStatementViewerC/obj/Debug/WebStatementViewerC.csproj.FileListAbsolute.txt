@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WebStatementViewerC\WebStatementViewerC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WebStatementViewerC\WebStatementViewerC\bin\WebStatementViewerC.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WebStatementViewerC\WebStatementViewerC\bin\WebStatementViewerC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WebStatementViewerC\WebStatementViewerC\obj\Debug\WebStatementViewerC.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WebStatementViewerC\WebStatementViewerC\obj\Debug\WebStatementViewerC.pdb
